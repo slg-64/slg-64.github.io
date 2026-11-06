@@ -1,2 +1,2 @@
-# Daniel Auger website
-I am Daniel Auger (aka SLG64)
+## Hello there!
+My name is Daniel Auger, I'm known as SLG64 online.
