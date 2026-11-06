@@ -1,1 +1,2 @@
-# slg-64.github.io
+# Daniel Auger website
+I am Daniel Auger (aka SLG64)
