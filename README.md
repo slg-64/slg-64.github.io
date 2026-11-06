@@ -10,4 +10,9 @@ Here's just a few projects I'm proud of.
 * [Eventide OST (link does not exist)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   * I am the audio lead for _Eventide_, a platformer game created for CMPUT250 at the University of Alberta.
 * [My fledgling YouTube channel](https://www.youtube.com/@slg64)
-  * Speedruns for above mentioned video game. All world records since there's not much competition :/
+  * Speedruns for above mentioned video game. All are world records since there's not much competition :/
+
+## Contact
+Email: dauger064@gmail.com
+
+Discord: slg_64
